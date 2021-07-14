@@ -47,6 +47,3 @@ A little intro about me:
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobd42&layout=compact&theme=gotham)
 <br></br>
 
-
-<hr>
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandogontijo/)

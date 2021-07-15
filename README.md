@@ -3,7 +3,7 @@
 A little intro about me:
 
 - 📍 Sydney, **Australia 🇦🇺**
-- 🖥︎  I'm currently working on creating **web, mobile and server-side applications**
+- 🖥︎  I'm currently working on an amazing company called **[<span style="color: orange">Zookal</span>](https://www.zookal.com)**, building **web, mobile and server-side solutions** to support and transform students' lives for the better
 - 📚  I love working collaboratively as a team, break complex problems into small pieces, craft solutions, and coding them
 - 🏄🏻‍♂️  Fun fact:  I'm a surfing learner and I'm addicted to this amazing sport
 <br></br>
@@ -39,7 +39,7 @@ A little intro about me:
 <br></br>
 
 ### 📈 Stats 
-[![Fernando github stats](https://github-readme-stats.vercel.app/api?username=fernandobd42&theme=gotham&show_icons=true&count_private=true)](https://github.com/fernandobd42/github-readme-stats)
+[![Fernando github stats](https://github-readme-stats.vercel.app/api?username=fernandobd42&theme=gotham&show_icons=true&count_private=true&hide_rank=true&hide=stars,prs,issues,contribs)](https://github.com/fernandobd42/github-readme-stats)
 <br></br>
 
 
@@ -47,3 +47,5 @@ A little intro about me:
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobd42&layout=compact&theme=gotham)
 <br></br>
 
+
+**[<span>More about me</span>](http://fernandobd42.github.io/)**

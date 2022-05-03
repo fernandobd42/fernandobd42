@@ -40,6 +40,7 @@ A little intro about me:
 
 ### 📈 Stats 
 ![Fernando github stats](https://github-readme-stats.vercel.app/api?username=fernandobd42&theme=gotham&show_icons=true&count_private=true&hide_rank=true&hide=stars,prs,issues,contribs)
+<br></br>
 ![Fernando github total stats](https://github-readme-streak-stats.herokuapp.com/?user=fernandobd42&theme=gotham&hide_border=false)
 <br></br>
 

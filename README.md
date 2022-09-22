@@ -3,7 +3,7 @@
 A little intro about me:
 
 - 📍 Sydney, **Australia 🇦🇺**
-- 🖥︎  I'm currently working on an amazing company called **[<span style="color: orange">Zookal</span>](https://www.zookal.com)**, building **web, mobile and server-side solutions** to support and transform students' lives for the better
+- 🖥︎  I'm currently working on an amazing company called **[<span style="color: rgb(0, 192, 165)">Lendi</span>](https://www.lendi.com.au/)**, building **micro-sites and micro-services** to support and transform people' lives by allowing them to compare rates, apply online and settle their **home loan** with unlimited support from our team of Home Loan Specialists. At the end we do help them **saving money**
 - 📚  I love working collaboratively as a team, break complex problems into small pieces, craft solutions, and coding them
 - 🏄🏻‍♂️  Fun fact:  I'm a surfing learner and I'm addicted to this amazing sport
 <br></br>

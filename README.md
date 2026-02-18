@@ -2,10 +2,10 @@
 
 A little intro about me:
 
-- 📍 Sydney, **Australia 🇦🇺**
-- 🖥︎  I'm currently working on an amazing company called **[<span style="color: rgb(0, 192, 165)">Lendi</span>](https://www.lendi.com.au/)**, building **micro-sites and micro-services** to support and transform people' lives by allowing them to compare rates, apply online and settle their **home loan** with unlimited support from our team of Home Loan Specialists. At the end we do help them **saving money**
-- 📚  I love working collaboratively as a team, break complex problems into small pieces, craft solutions, and coding them
-- 🏄🏻‍♂️  Fun fact:  I'm a surfing learner and I'm addicted to this amazing sport
+- 📍 Gold Coast, **Australia 🇦🇺**
+- 🏦 I’m currently a Senior Software Engineer at **[<span style="color: rgb(227, 0, 27)">Westpac</span>](https://www.westpac.com.au/)**, collaborating with architects, product, and engineering leaders to modernise digital banking platforms, driving architectural evolution, simplifying complex systems, and delivering scalable, resilient customer experiences at production scale.
+- 📚 I thrive in highly collaborative environments, breaking down complex, ambiguous problems into well-defined increments, designing thoughtful solutions, and delivering high-quality, production-ready code.
+- 🏄🏻‍♂️  Fun fact:  I'm a surfing learner, and I'm addicted to this amazing sport
 <br></br>
 
 ### 🛠 Technologies/Tools:
@@ -42,17 +42,6 @@ A little intro about me:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-white?&logo=notion&logoColor=black)
 ![Miro](https://img.shields.io/badge/Miro-050038?&logo=miro&logoColor=white)
-<br></br>
-
-### 📈 Stats 
-![Fernando github stats](https://github-readme-stats.vercel.app/api?username=fernandobd42&theme=gotham&show_icons=true&count_private=true&hide_rank=true&hide=stars,prs,issues,contribs)
-<br></br>
-<!---![Fernando github total stats](https://github-readme-streak-stats.herokuapp.com/?user=fernandobd42&theme=gotham&hide_border=false)
-<br></br>--->
-
-
-### 💡 Languages 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobd42&layout=compact&theme=gotham)
 <br></br>
 
 
